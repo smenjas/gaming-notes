@@ -9,7 +9,6 @@ Stats:
 - Time: 30 minutes to 2 hours, depending on the number of names in the hat
 
 The Rules:
-- Gather 4 or more people, by video chat if necessary.  The more the merrier.
 - Distribute paper and writing utensils to everyone.
 - Ask everyone to write a name on each piece of paper, of a real or fictional
   character that most people in the room recognize.  Each person can provide
